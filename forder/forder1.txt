@@ -28,3 +28,9 @@ git reset HEAD~1 --soft
 git reset HEAD~1 --hard
 git reset --hard
 git reset ca8270e
+
+git revert HEAD
+
+git branch 
+gir branch development
+git checkout development
