@@ -17,6 +17,6 @@ git shortlog
 git checkout -- code1.txt
 git commit -am "message"
 git diff
-git remote add origin https://github.com/Choi-Byungwook/
+git remote add origin https://github.com/Choi-Byungwook/git
 git remote get-url origin
 git push origin master
