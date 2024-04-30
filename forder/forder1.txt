@@ -20,3 +20,4 @@ git diff
 git remote add origin https://github.com/Choi-Byungwook/git
 git remote get-url origin
 git push origin master
+git pull origin master
