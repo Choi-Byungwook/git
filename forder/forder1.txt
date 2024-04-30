@@ -9,4 +9,14 @@ git add code1.txt
 git rm --cached code1.txt
 git add .
 git rm -rf .idea
+git config --global user.email "redsunofsky@naver.com"
+git config --global user.name "cbw"
 git commit -m "Initial commit"
+git log
+git shortlog
+git checkout -- code1.txt
+git commit -am "message"
+git diff
+git remote add origin https://github.com/Choi-Byungwook/
+git remote get-url origin
+git push origin master
