@@ -34,3 +34,8 @@ git revert HEAD
 git branch 
 gir branch development
 git checkout development
+git merge development
+git rebase development
+git rebase --continue
+
+git cherry-pick 1678c52
