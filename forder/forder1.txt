@@ -24,4 +24,7 @@ git pull origin master
 set LC_ALL=ko_KR.UTF-8
 
 git config --global --edit
-git reset HEAD
+git reset HEAD~1 --soft
+git reset HEAD~1 --hard
+git reset --hard
+git reset ca8270e
