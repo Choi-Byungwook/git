@@ -39,3 +39,4 @@ git rebase development
 git rebase --continue
 
 git cherry-pick 1678c52
+git tag v1.0.0
