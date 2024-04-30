@@ -1,0 +1,12 @@
+폴더1
+폴더2
+폴더3
+폴더4
+
+git init
+git status
+git add code1.txt
+git rm --cached code1.txt
+git add .
+git rm -rf .idea
+git commit -m "Initial commit"
